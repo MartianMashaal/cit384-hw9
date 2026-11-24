@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  padding: 24px;
+  background-color: #f2f2f2;
+  color: #222;
+  font-family: Arial, sans-serif;
+  line-height: 1.5;
+}
+
+main {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+h1 {
+  margin-bottom: 4px;
+}
+
+h2 {
+  margin-top: 0;
+  font-size: 22px;
+}
+
+section {
+  margin-top: 20px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  background-color: white;
+}
+
+section p:last-child {
+  margin-bottom: 0;
+}
